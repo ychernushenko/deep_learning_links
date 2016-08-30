@@ -3,7 +3,8 @@
 Berlin  
 
 http://www.ni.tu-berlin.de/menue/neural_information_processing_group/  
-https://prof.beuth-hochschule.de/loeser/  
+http://www.ml.tu-berlin.de/menue/machine_learning/   
+https://prof.beuth-hochschule.de/loeser/    
 
 
 Fund  
