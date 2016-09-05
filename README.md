@@ -6,6 +6,9 @@ http://www.ni.tu-berlin.de/menue/neural_information_processing_group/
 http://www.ml.tu-berlin.de/menue/machine_learning/   
 https://prof.beuth-hochschule.de/loeser/    
 
+Competitions  
+https://gallery.cortanaintelligence.com/Competition/Womens-Health-Risk-Assessment-1  
+
 
 Fund  
 http://www.startup-incubator.berlin/stipendium/   
